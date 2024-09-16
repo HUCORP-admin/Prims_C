@@ -1,0 +1,28 @@
+i 4
+a 0;1;1.00
+a 1;2;2.00
+a 2;3;3.00
+a 3;0;4.00
+deg 0
+deg 1
+deg 2
+deg 3
+num_edges
+mst 0
+a 0;1;4.00
+a 1;2;3.00
+a 2;3;2.00
+a 3;0;1.00
+deg 0
+deg 1
+deg 2
+deg 3
+num_edges
+mst 0
+clear
+a 0;1;1.00
+a 1;2;2.00
+a 2;3;3.00
+a 3;0;4.00
+mst 0
+exit
