@@ -1,0 +1,19 @@
+i 6
+a 0;1;1.00
+a 0;2;2.00
+a 0;3;3.00
+a 0;4;4.00
+a 0;5;5.00
+deg 0
+deg 1
+deg 2
+deg 3
+deg 4
+deg 5
+mst 0
+mst 1
+mst 2
+mst 3
+mst 4
+mst 5
+exit
